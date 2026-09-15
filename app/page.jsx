@@ -109,7 +109,7 @@ export default function Home() {
 
       <section className="quote section-pad" id="quote">
         <p className="eyebrow light">For private residences &amp; projects</p>
-        <h2>LET&apos;S CREATE SOMETHING<br />BEAUTIFUL</h2>
+        <h2>LET&apos;S CREATE SOMETHING BEAUTIFUL</h2>
         <a className="button outline" href="mailto:studio@oakgallerie.com">Request a Quote <b>↗</b></a>
       </section>
 
