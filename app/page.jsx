@@ -97,7 +97,7 @@ export default function Home() {
       <footer id="stores">
         <div className="footer-top"><a className="brand" href="#top">OAK GALLERIE</a><p>Furniture for a life well lived.</p></div>
         <div className="footer-links">
-          <div><p className="footer-label">Visit</p><a href="#stores">Kolkata</a></div>
+          <div><p className="footer-label">Visit</p><a href="https://www.google.com/maps/dir//OAK+GALLERIE,+35,+Diamond+Harbour+Rd,+Majherhat,+Mominpore,+Kolkata,+West+Bengal+700027/@22.5278509,88.3333026,15z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x3a0279f6de00f34d:0xc092f3592fefb290!2m2!1d88.324155!2d22.5212063?entry=ttu&g_ep=EgoyMDI2MDkwOS4wIKXMDSoASAFQAw%3D%3D">Kolkata</a></div>
           <div><p className="footer-label">Connect</p><a href="mailto:info@oakgallerie.com">info@oakgallerie.com</a><a href="https://www.instagram.com/oak_gallerie?stkn=MWR4OWoxdGZrMGowcw==">Instagram</a><a href="#journal">Pinterest</a></div>
           <div id="journal"><p className="footer-label">Journal</p><a href="#journal">Notes on material</a><a href="#journal">The studio edit</a></div>
           <p className="newsletter">A considered note from our world.<br /><a href="mailto:info@oakgallerie.com">Subscribe <b>↗</b></a></p>
