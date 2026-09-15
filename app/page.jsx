@@ -31,18 +31,37 @@ export default function Home() {
       </header>
 
       <section className="hero" id="top">
-        <img src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2200&q=90" alt="Quiet modern living room with sculptural furniture" />
-        <div className="hero-shade" />
-        <div className="hero-content section-pad">
-          <p className="eyebrow light">Since 2016</p>
-          <h1>FORM &amp; FUNCTION,<br />CRAFTED TO LAST.</h1>
-          <p className="hero-copy">Contemporary furniture shaped by craftsmanship, materials and timeless design.</p>
-          <div className="hero-actions">
-            <a className="button solid" href="#collections">Explore Collections <b>↗</b></a>
-            <a className="text-link light" href="#story">Our Story <b>↗</b></a>
-          </div>
-        </div>
-      </section>
+  <img
+    src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2200&q=90"
+    alt="Quiet modern living room with sculptural furniture"
+  />
+
+  <div className="hero-shade" />
+
+  <div className="hero-content section-pad">
+    <p className="eyebrow light">Since 2016</p>
+
+    <h1>
+      TIMELESS FORMS.<br />
+      CRAFTED AROUND YOU.
+    </h1>
+
+    <p className="hero-copy">
+      Bespoke furniture crafted in India, shaped by natural materials,
+      considered design and the spaces they belong to.
+    </p>
+
+    <div className="hero-actions">
+      <a className="button solid" href="#collections">
+        Explore Collections <b>↗</b>
+      </a>
+
+      <a className="text-link light" href="#bespoke">
+        Start a Project <b>↗</b>
+      </a>
+    </div>
+  </div>
+</section>
 
       <section className="collection section-pad" id="collections">
         <div className="collection-image image-frame"><img src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1500&q=85" alt="Warm lounge with a low cream sofa" /></div>
