@@ -98,7 +98,7 @@ export default function Home() {
         <div className="footer-top"><a className="brand" href="#top">OAK GALLERIE</a><p>Furniture for a life well lived.</p></div>
         <div className="footer-links">
           <div><p className="footer-label">Visit</p><a href="#stores">Kolkata</a></div>
-          <div><p className="footer-label">Connect</p><a href="mailto:info@oakgallerie.com">info@oakgallerie.com</a><a href="#journal">Instagram</a><a href="#journal">Pinterest</a></div>
+          <div><p className="footer-label">Connect</p><a href="mailto:info@oakgallerie.com">info@oakgallerie.com</a><a href="https://www.instagram.com/oak_gallerie?stkn=MWR4OWoxdGZrMGowcw==">Instagram</a><a href="#journal">Pinterest</a></div>
           <div id="journal"><p className="footer-label">Journal</p><a href="#journal">Notes on material</a><a href="#journal">The studio edit</a></div>S
           <p className="newsletter">A considered note from our world.<br /><a href="mailto:info@oakgallerie.com">Subscribe <b>↗</b></a></p>
         </div>
